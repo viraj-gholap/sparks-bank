@@ -1,3 +1,3 @@
-# sparksbank.github.io
+**Sparks Bank**
 **The Sparks Foundation : Graduate Rotational Internship Program**
-#Task 1 : Basic Banking System
+ #Task 1 : Basic Banking System
